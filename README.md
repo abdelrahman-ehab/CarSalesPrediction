@@ -68,12 +68,9 @@ The dataset contains information about various car attributes. Key columns inclu
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone (https://github.com/abdelrahman-ehab/CarSalesPrediction)
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 3. Run the Jupyter notebooks in the `notebooks` folder for EDA and model building.
 
 ## Key Learnings
