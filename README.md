@@ -44,12 +44,10 @@ The dataset contains information about various car attributes. Key columns inclu
 
 ### 6. Results
 - **Elastic Net Regression**:
-  - Mean Squared Error: [Insert value]
-  - R-squared: [Insert value]
+  - Mean Absolute Error: 0.2291
 
 - **Decision Tree Regression**:
-  - Mean Squared Error: [Insert value]
-  - R-squared: [Insert value]
+  - Mean Absolute Error: 0.0791
 
 ## Tools and Technologies
 - **Python Libraries**:
