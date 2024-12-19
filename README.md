@@ -1,4 +1,4 @@
-# Car Dataset Regression Analysis
+# Car Price Prediction
 
 ## Project Overview
 This project involves analyzing a car dataset to predict a target variable (e.g., car price or fuel efficiency) using regression models. The analysis includes data preprocessing, exploratory data analysis (EDA), feature engineering, and building regression models. Two models were implemented: Elastic Net and Decision Tree Regression, with the Decision Tree model achieving better performance.
